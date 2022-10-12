@@ -29,7 +29,7 @@ def find_number(equation):
         return float(number)
 
 
-equation = "5x2 - 450=0"
+equation = "5x**2 - 450=0"
 equation = equation.replace(" ", "")
 
 if 'x' in equation:
